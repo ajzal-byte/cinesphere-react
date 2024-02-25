@@ -24,7 +24,7 @@ npm install
 ```
 
 4. Obtain an API key from [OMDB API](http://www.omdbapi.com/apikey.aspx)
-and update the API_URL = 'http://www.omdbapi.com?apikey=YOUR_API_KEY' on the App.jsx file.
+and update the variable API_URL = 'http://www.omdbapi.com?apikey=YOUR_API_KEY' on the App.jsx file.
 
 5. Start the development server:
 ```
